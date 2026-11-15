@@ -5,4 +5,15 @@
     <string name="subtitulo_velada">Disfruta en directo de los combates de boxeo y actuaciones musicales del evento de Ibai Llanos.</string>
     <string name="boton_entradas">Comprar entradas</string>
     <string name="toast_no_implementado">Todavía no está implementado</string>
+
+    <string name="card_titulo_default">Título</string>
+    <string name="card_subtitulo_default">Subtítulo</string>
+    <string name="card_descripcion_default">Descripción de la tarjeta</string>
+    <string name="card_boton_default">Ver más</string>
+    <string name="card_imagen_desc">Cartel del combate principal de La Velada 2027</string>
+    <string name="detail_titulo_card">Combate Estelar 2027</string>
+    <string name="detail_subtitulo_card">Main Event - Peso Medio</string>
+    <string name="detail_descripcion_card">Tres asaltos de tres minutos en el estadio con retransmisión en directo.</string>
+    <string name="detail_boton_card">Ver luchadores</string>
+    <string name="detail_toast_card">¡Abriendo ficha del combate!</string>
 </resources>
